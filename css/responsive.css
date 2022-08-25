@@ -1,0 +1,19 @@
+
+@media screen and (max-width: 1600px) {
+
+	.flex-section .header .flex-nav .cta {
+        margin-top: calc(100% - 56px);
+    }
+
+    .about .about-section {
+        width: 880px;
+    }
+
+    .videos .video-stories .owl-nav button.owl-prev {
+        right: 32%;
+    }
+
+    .videos .video-stories .owl-nav button.owl-next {
+        right: 28%;
+    }
+}
