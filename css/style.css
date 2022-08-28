@@ -143,7 +143,7 @@ nav.nav-window .close-btn {
   position: absolute;
   cursor: pointer;
   right: 0;
-  top: 0%;
+  top: 10%;
   width: 36px;
   height: 36px;
   z-index: 0;
@@ -153,7 +153,7 @@ nav.nav-window .close-btn .line {
   position: absolute;
   content: '';
   right: 0;
-  top: 10%;
+  top: 0%;
   width: 36px;
   height: 1px;
   -webkit-transform: rotate(45deg);
